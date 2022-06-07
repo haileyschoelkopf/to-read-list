@@ -21,6 +21,7 @@
 - https://arxiv.org/abs/2109.07460
 - https://huggingface.co/minimaxir/ai-generated-pokemon-rudalle
 - https://arxiv.org/abs/2204.10019
+- https://arxiv.org/abs/2205.14217
 
 
 
