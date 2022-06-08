@@ -22,6 +22,13 @@
 - https://huggingface.co/minimaxir/ai-generated-pokemon-rudalle
 - https://arxiv.org/abs/2204.10019
 - https://arxiv.org/abs/2205.14217
+- https://arxiv.org/abs/2206.01861
+- https://github.com/openai/guided-diffusion
+- https://arxiv.org/abs/2106.01345
+- https://github.com/XiangLi1999/Diffusion-LM
+- https://multimodal.art/news/this-week-in-multimodal-ai-art-31-may-06-jun
+- https://arxiv.org/pdf/2205.14459.pdf
+- https://github.com/lvwerra/trl
 
 
 
