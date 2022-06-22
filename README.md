@@ -31,6 +31,30 @@
 - https://github.com/lvwerra/trl
 
 
+6/22/22:
+- https://arxiv.org/abs/2107.07075
+- https://github.com/pesser/stable-diffusion
+- https://arxiv.org/pdf/2206.07137.pdf (https://github.com/OATML/RHO-Loss)
+- http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.376.pdf
+- ExT5 https://arxiv.org/pdf/2111.10952.pdf
+- Towards Understanding Grokking https://arxiv.org/abs/2205.10343
+- Emergent Abilities https://arxiv.org/pdf/2206.07682.pdf
+- DIRECTOR: Generator-CLassifiers https://arxiv.org/abs/2206.07694
+- Decentralized Training https://arxiv.org/pdf/2206.01288.pdf
+- t-few codebase https://github.com/r-three/t-few
+- https://arxiv.org/abs/2202.07765 https://github.com/google-research/perceiver-ar/blob/main/perceiver_ar/perceiver_ar_model.py
+- t5x ckpts https://github.com/google-research/t5x/blob/main/docs/models.md#converted-mesh-tensorflow-checkpoints
+- Neural Basis Models for Interpretability https://arxiv.org/abs/2205.14120
+- Scalable Interpretability by Polynomials https://arxiv.org/abs/2205.14108
+- UniLM https://arxiv.org/pdf/1905.03197.pdf
+- CM3 https://arxiv.org/pdf/2201.07520.pdf
+- Jax Monte Carlo Tree Search: https://github.com/deepmind/mctx
+- Differentiable Finite State Machines https://google-research.github.io/self-organising-systems/2022/diff-fsm/
+- Multigame DTs https://arxiv.org/abs/2205.15241
+- Shampoo in PyTorch https://github.com/facebookresearch/optimizers/tree/main/shampoo
+- Ghost in the Machine https://arxiv.org/ftp/arxiv/papers/2203/2203.07785.pdf
+- https://github.com/stancld/longt5-eval
+
 
 
 
