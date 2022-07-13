@@ -57,5 +57,26 @@
 
 
 
+7/13/22
+- Structured Pruning Learns Compact and Accurate Models https://arxiv.org/pdf/2204.00408.pdf
+- Making Pre-trained Language Models Better Few-Shot Learners https://aclanthology.org/2021.acl-long.295.pdf
+- Training Language Models With Memory Augmentation https://arxiv.org/pdf/2205.12674.pdf
+- On the Paradox of Learning To Reason From Data https://arxiv.org/abs/2205.11502
+- Should You Mask 15% in Masked Language Modeling? https://arxiv.org/pdf/2202.08005.pdf
+- Annotated S4 https://github.com/srush/annotated-s4
+- Recovering Private Text in Federated Learning of Language Models https://arxiv.org/pdf/2205.08514.pdf
+- Named Tensor Notation https://arxiv.org/pdf/2102.13196.pdf
+- How Many Data Points is A Prompt Worth? https://arxiv.org/pdf/2103.08493.pdf
+- Block Pruning For Faster Transformers https://arxiv.org/pdf/2109.04838.pdf
+- In-Context Tuning https://github.com/yandachen/In-context-Tuning https://arxiv.org/pdf/2110.07814.pdf
+- Exploring the Role of Task Transferability in Multi-Task Training https://arxiv.org/pdf/2204.11117.pdf
+- Maieutic Prompting: Logically Consistent Reasoning With Recursive Explanations https://arxiv.org/abs/2205.11822
+- Language Models in the Loop: Incorporating Prompting into Weak Supervision https://arxiv.org/pdf/2205.02318.pdf
+- QA Infused Pretraining of General-purpose Contextualized Representations https://arxiv.org/pdf/2106.08190.pdf
+- Can Small and Synthetic Benchmarks Drive Innovation? https://arxiv.org/pdf/2102.01065.pdf
+
+
+
+
 
 
